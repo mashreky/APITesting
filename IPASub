@@ -1,0 +1,30 @@
+{
+	"SourceS3Key":"rchedwick-testing/test.txt",
+	"TradingPartner":
+	{
+        "Submitter":
+        {
+            "Identifier":"Submitter Identifier",
+            "LastOrganizationName": "Submitter Last Organization Name",
+            "ContactName": "Submitter Contact Name",
+            "TelephoneNumber": "Submitter Telephone Number"
+        },
+        "PayerAdditionalIdentifier": "TEMP001",
+        "PayerLastOrOrganizationName": "Payer Last Or Organization Name",
+        "PayerAddressLine": "Payer Adderss Line",
+        "PayerCityName": "Payer City Name",
+        "PayerStateCode": "Payer State Code",
+        "PayerZIPCode": "Payer Zip Code",
+        "ContractType": 
+        {
+            "ContractName": "Trading Partner Contract Name",
+            "Id": 2
+        },
+        "Receiver":
+        {
+            "InstitutionalId": "Receivier Institutional Id",
+            "ProfessionalId": "Receiever Professional Id",
+            "DMEId": "Reciever DME Id"
+        }
+	}
+}
